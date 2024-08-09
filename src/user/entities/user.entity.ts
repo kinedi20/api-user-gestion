@@ -30,7 +30,7 @@ email: string;
 status: boolean;
 
 
-@Column()
-password: string;
+// @Column()
+// password: string;
 
 }
